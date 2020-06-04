@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+## COCO DataSet Faster Downloads
 
-You can use the [editor on GitHub](https://github.com/zainullahdev/zainullahdev.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Torrent download (**Images ONLY**): http://academictorrents.com/details/f993c01f3c268b5d57219a38f8ec73ee7524421a
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Google Drive (**Annotations ONLY**): https://bit.ly/coco-annotations
+
+Google Drive (**Test Images**): https://bit.ly/coco-test2014
+
+Google Drive (**Train Images**): https://bit.ly/coco-train2014
+
+Google Drive (**Validation Images**): https://bit.ly/coco-val2014
+
+OWNER: http://cocodataset.org/
+
+Terms: By Downloading from links provided you agree to these terms: http://mscoco.org/terms_of_use/
+
 
 ### Markdown
 
